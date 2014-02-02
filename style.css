@@ -1,0 +1,5 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+
+.song span { background: rgba(20, 20, 80, 0.1); font-family: 'Open Sans', sans-serif; }
+.song.selected span { background: rgba(20,20,80,0.5); }
+.song span:hover { background: rgba(30,20,80,0.3); }
